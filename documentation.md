@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Documentation
-author: Alex Gil
+title: Sources
+author: Pilar Ramírez
 ---
 
 ## Contents
