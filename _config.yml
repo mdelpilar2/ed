@@ -5,7 +5,7 @@ title:               Ling.craft.
 tagline:             'a digital collection for historical linguistic documentation'
 description:         'Ling.craft is a collection for colonial linguistic documentation of current Colombia.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/lingcraft'
 
 # About/contact
 author:

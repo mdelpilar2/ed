@@ -10,7 +10,7 @@ Pilar teaches Digital Humanities in the Department of Latin American and Iberian
 
 ### [Terry Catapano](https://github.com/tcatapano) | Metadata ninja
 
-Terry Catapano is a Librarian in Columbia University Libraries' Digital Program Division. He was Chair of the Society of 
+Terry Catapano is a Librarian in Columbia University Libraries' Digital Program Division. He was Chair of the Society of
 
 
 ---
