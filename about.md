@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Home
 ---
 
 This is digital collection in which you will be able to find linguistic documentation on indigenous languages that were spoken.
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and front end, and the learning curves for the user and the producer. Out of-the-box, this theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes and a bibliography without breaking the bank. In our estimate, these are the two most immediately useful type of editions for editors and readers. An edition produced with Ed consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith. Our hope is that our approach can help beginners or veterans deploy beautiful editions with less effort, that it can help us teach a 'full stack' in one academic semester, allow us to care for our projects at less cost, and perhaps, just perhaps, allow us to generate high-quality editions on github.io in large quantities based on the [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming for you, Kindle!
+Our aim is to contribute to other digital projects [Alec](http://alec.caroycuervo.gov.co/alec-digital.php) model by Jonathan Reeve. We're coming for you, Kindle!
 
 
 ## Sample Ed editions.

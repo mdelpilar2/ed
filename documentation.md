@@ -11,6 +11,7 @@ author: Pilar Ramírez
 {:toc}
 
 ---
+<a href="http://go-dh.github.io/mincomp/">minimal computing principles</a>
 
 ## Prerequisites
 
