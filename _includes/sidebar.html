@@ -14,7 +14,12 @@
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Documentation</a>
+      <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/about" target="_blank">About</a>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/documentation">Documentation</a>
+
+
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -22,9 +27,8 @@
 
 
     <!-- The code below is used for manually entered links  -->
-    <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
-      hypothesis.setAttribute('src','https://hypothes.is/embed.js');
-      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Sources</a></span>
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/sources" target="_blank">Sources</a>
 
   <!--
     <a class="sidebar-nav-item" href="https://via.hypothes.is/{{ site.url }}{{ site.baseurl }}{{page.url}}/" data-proofer-ignore>Annotate me</a>
@@ -35,7 +39,7 @@
   </nav>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">News</a>
+    <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/news" target="_blank">News</a>
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Credits</a>
