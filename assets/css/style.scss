@@ -23,7 +23,32 @@ $regular-font-size: 20px;
 
 $text-color: #454545;
 $heading-color: #404040;
-$link-color: #841212;
+$link-color: #275b8c;
 
 @import "ed";
 @import "syntax";
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|Ubuntu&display=swap');
+
+
+.sidebar {
+    background-color: #5e778e;
+}
+
+.bibliografia {
+//    color: #FF00FF;
+    padding-left: 50px;
+    text-indent: -50px;
+    line-height: 99%;
+}
+
+h1 {
+      font-family: 'IM Fell DW Pica', serif;
+}
+
+.masthead-title a {
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+p {
+//      font-family: 'Ubuntu', sans-serif;
+}

@@ -14,11 +14,12 @@
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/about" target="_blank">About</a>
+      <a class="sidebar-nav-item" href="/lingcraft/about" target="_blank">About</a>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/documentation">Documentation</a>
-
+      <a class="sidebar-nav-item" href="/lingcraft/documentation">Documentation</a>
+      <nav class="sidebar-nav">
+        <a class="sidebar-nav-item" href="/lingcraft/achagua" style="padding-left:50px;font-size:90%;border-top: none;line-height:2px">Achagua</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -28,21 +29,21 @@
 
     <!-- The code below is used for manually entered links  -->
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/sources" target="_blank">Sources</a>
+      <a class="sidebar-nav-item" href="/lingcraft/sources" target="_blank">Sources</a>
 
   <!--
     <a class="sidebar-nav-item" href="https://via.hypothes.is/{{ site.url }}{{ site.baseurl }}{{page.url}}/" data-proofer-ignore>Annotate me</a>
     <script src="https://hypothes.is/embed.js" async></script>
   -->
-
-    <a class="sidebar-nav-item" href="https://github.com/minicomp/ed" target="_blank">Map</a>
+<!---
+   <a class="sidebar-nav-item" href="https://github.com/minicomp/ed" target="_blank">Map</a>
   </nav>
-
+  -->
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/news" target="_blank">News</a>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Credits</a>
+      <a class="sidebar-nav-item" href="http://127.0.0.1:4000/lingcraft/credits" target="_blank">Credits</a>
 
   <div class="sidebar-item">
     <p>Currently v1.0 Distributed with an MIT license.</p>

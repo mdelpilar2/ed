@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Languages
+title: Achagua
 author: Pilar Ramírez
 ---
 
@@ -11,8 +11,6 @@ author: Pilar Ramírez
 {:toc}
 
 ---
-
-<a href="http://127.0.0.1:4000/lingcraft/search">**Click here to search**</a>
 
 # Achagua
 
@@ -57,24 +55,6 @@ http://coleccionmutis.cubun.org/index.php?title=Manuscrito_2910_BPRM_todo1&print
 <p class="bibliografia">Wilson, Peter J. and Stephen H. Levinsohn. 1992. Una descripción preliminar de la gramática del achagua (Arawak). Bogotá: Instituto Lingüístico de Verano.</p>
 
 
-
----
-
-# Muisca language
-
-There is a <a href="http://muysca.cubun.org/Portada" target="_blank">digital project</a>.
-
----
-
-# Sáliva language
-
-Bla, bla, bla.
-
----
-
-# Siona language
-
-Bla, Bla
 
 ---
 
