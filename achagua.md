@@ -32,7 +32,7 @@ http://coleccionmutis.cubun.org/index.php?title=Manuscrito_2910_BPRM_todo&printa
 
 http://coleccionmutis.cubun.org/index.php?title=Manuscrito_2910_BPRM_todo1&printable=yes
 
-<img src="/lingcraft/img/pages/orinocodetail.jpg" style="display: block; width: 600px; margin-right: auto; margin-left: auto;">
+<img src="/lingcraft/img/pages/orinoco.jpg" style="display: block; width: 600px; margin-right: auto; margin-left: auto;">
 
 
 **Description of the language in the colonial period**
