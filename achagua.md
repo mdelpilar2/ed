@@ -22,17 +22,15 @@ This language is spoken in the reserves Umapo and El Turpial, in the Puerto Lóp
 
 ## Past
 
+<img src="/lingcraft/img/pages/orinoco.jpg" style="display: block; width: 600px; margin-right: auto; margin-left: auto;">
+
 There is a manuscript dated on 1762, whose authors seem to be the Jesuits Alonso de Neira and Juan Rivero (1681-1736). Juan Rivero traveled to America in 1705 and began working in the Orinoco missions in 1721, where he had contact with the Achaguas.[^fn1] It is not known if the manuscript was written entirely by Neira, if Rivero transcribed it or if Rivero complemented what Neira did. In the prologue of this 100 pages manuscript, it is said that the grammar follows the 1490s’ Latin grammar model of Antonio de Nebrija.[^fn2] Then, it describes the pronunciation, nouns, pronouns, conjugations, plurals, passive voice, questions, and so forth. The manuscript continues with a vocabulary in alphabetical order and the translation of a confessional. This manuscript was not published, did not circulate, nor had the intention to evaluate the language in comparison with others. That is, it was created for other missionaries to learn the language and used within the field, due to the diversity of Orinoco languages.
+
+
+You can fin a transcript on <a href="http://coleccionmutis.cubun.org/index.php?title=Manuscrito_2910_BPRM_todo&printable=yes" target="_blank">Coleccion Mutis</a>.
 
 You can find a digital version on the <a href="http://bibliotecanacional.gov.co/es-co/colecciones/biblioteca-digital/publicacion?nombre=Arte+y+vocabulario+de+la+lengua+achagua" target="_blank">Biblioteca Nacional de Colombia' website</a>.
 
-This was collected for
-
-http://coleccionmutis.cubun.org/index.php?title=Manuscrito_2910_BPRM_todo&printable=yes
-
-http://coleccionmutis.cubun.org/index.php?title=Manuscrito_2910_BPRM_todo1&printable=yes
-
-<img src="/lingcraft/img/pages/orinoco.jpg" style="display: block; width: 600px; margin-right: auto; margin-left: auto;">
 
 
 **Description of the language in the colonial period**
@@ -53,7 +51,6 @@ http://coleccionmutis.cubun.org/index.php?title=Manuscrito_2910_BPRM_todo1&print
 <p class="bibliografia">Melendez, Miguel Ángel Lozano. 2000. Esbozo grammatical de la lengua achagua. In María Stella González de Pérez and María Luisa Rodríguez de Montes (eds.), Lenguas indígenas de Colombia: Una visión descriptiva. Bogotá: Instituto Caro y Cuervo.</p>
 
 <p class="bibliografia">Wilson, Peter J. and Stephen H. Levinsohn. 1992. Una descripción preliminar de la gramática del achagua (Arawak). Bogotá: Instituto Lingüístico de Verano.</p>
-
 
 
 ---

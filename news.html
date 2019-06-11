@@ -1,10 +1,9 @@
 ---
 layout: post
-title: News
-subtitle: "Updates"
+title: "Updates"
+subtitle:
 date: 2019-05-23
 author: Pilar Ramírez
-background: '/ed/img/posts/iguana.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
 ---
 
 {% for post in site.posts %}
@@ -15,7 +14,7 @@ background: '/ed/img/posts/iguana.jpg' # notice how the image referenced is in y
     {% if post.subtitle %}
     <h3 class="post-subtitle">{{ post.subtitle }}</h3>
     {% else %}
-    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+    <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
     {% endif %}
   </a>
   <p class="post-meta">Posted by

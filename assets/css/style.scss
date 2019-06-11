@@ -36,8 +36,8 @@ $link-color: #275b8c;
 
 .bibliografia {
 //    color: #FF00FF;
-    padding-left: 50px;
-    text-indent: -50px;
+    padding-left: 70px;
+    text-indent: -30px;
     line-height: 99%;
 }
 
@@ -58,6 +58,30 @@ font-weight: 300;
 letter-spacing: .05rem;
 }
 
+h3 {
+    font-family: sans-serif;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    color: #404040;
+    letter-spacing: -.025rem;
+    line-height: 1.25;
+    text-rendering: optimizeLegibility;
+}
+
+
 p {
 //      font-family: 'Ubuntu', sans-serif;
+}
+
+figcaption {
+  display: block;
+  line-height: 94%;
+  font-size: 90%;
+  text-align: justify;
+}
+
+.prueba {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 120%;
 }
