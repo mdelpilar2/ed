@@ -44,6 +44,3 @@ kramdown:
 exclude:
   - optional
   - vendor
-
-# Theme
-theme: jekyll-theme-cayman
