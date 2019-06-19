@@ -60,4 +60,4 @@ You can find a digital version on the <a href="http://bibliotecanacional.gov.co/
 [^fn1]: José del Rey Fajardo, S.J. Biblioteca de escritores jesuitas neogranadinos. Bogotá: Pontificia Universidad Javeriana, 2006.
 
 
-[^fn2]: This means, bla, bla.
+[^fn2]: Pending.

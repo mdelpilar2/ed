@@ -9,7 +9,7 @@ background: '/img/posts/iguana.jpg' # notice how the image referenced is in your
 
 # About
 
-This is digital collection in which you will be able to find linguistic documentation on indigenous languages that were spoken.
+This is digital collection in which you will find information on indigenous languages in Colombia.
 Since 1991, the Political Constitution of Colombia recognizes its linguistic plurality. Patrimonial conservation plans have been developed for compliance with <a href="http://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1381_2010.pdf" target="_blank"> Ley 1381 of 2010</a> to protect languages from minorities. However, elements such as the lack of knowledge about languages ​​in Colombia, the low appreciation of this diversity, or violence in territories have complicated its application. The Colombian government recognizes 65 indigenous languages.[^fn1] At least 34 of them are endangered.[^fn2]
 The goal of this website is to contribute to the understanding of the histories and transformations of those languages, and also of languages that have disappeared.
 
