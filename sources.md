@@ -16,7 +16,7 @@ author: Pilar Ramírez
 
 <p class="bibliografia">Cipriano Muñoz Manzano, Bibliografía española de lenguas indígenas de América (Madrid: Sucesores de Rivadeneyra, 1892).</p>
 
-It gives account of approximately a thousand languages between extinct and alive, that compiled consulting grammars, vocabularies, catechisms, sermonarios, among other manuscripts and printed of the colonial period.
+It gives account of approximately a thousand languages considering grammars, vocabularies, catechisms, sermonarios, among other manuscripts and printed sources of the colonial period.
 
 <p class="bibliografia">Antonio Tovar y Consuelo Larrucea de Tovar, Catálogo de las lenguas de América del Sur (Madrid: Editorial Gredos, 1984).</p>
 
@@ -37,4 +37,4 @@ It includes the studies on the Muisca language from the 16th century to the 20th
 
 ## Footnotes
 
-[^fn1]: Here you would find bibliography on languages in Colombia. The information on each language you may find it respective entry.
+[^fn1]: Here you would find bibliography on languages in Colombia. The information on each language you may find it in the respective entry.
